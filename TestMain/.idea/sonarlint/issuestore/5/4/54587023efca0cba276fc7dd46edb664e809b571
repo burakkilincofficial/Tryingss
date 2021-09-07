@@ -1,0 +1,7 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "nCourse".(Æ°œ·
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(„‘®´ýÿÿÿÿ
+B
+java:S1481",Remove this unused "nCourse" local variable.(Æ°œ·
