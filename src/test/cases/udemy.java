@@ -12,7 +12,8 @@
 //    private static final String USER_AGENT = "Mozilla/5.0";
 //    private static final String GET_URL = "https://jsonmock.hackerrank.com/api/countries/search?name=un";
 //    public static void main(String[] args) throws IOException {
-//        Gson g = new Gson(); Player p = g.fromJson(jsonString, Player.class)
+//        Gson g = new Gson();
+//        Player p = g.fromJson(jsonString, Player.class);
 //
 //        JSONParser parser = new JSONParser(); JSONObject json = (JSONObject) parser.parse(stringToParse);
 //

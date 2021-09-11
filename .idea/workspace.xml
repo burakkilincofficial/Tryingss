@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89477b75-bc57-4f8c-8d35-5db082a1d15d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/cases/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/cases/MercedesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/cases/ResultData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/cases/ResultJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/cases/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trying.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Trying.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/cases/udemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/cases/udemy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1y02vz4mfMoC1vYqWMWoLVJDLle" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/json-20210307.jar" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3764321" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MercedesTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test.cases.MercedesTest" />
+      <module name="Trying" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89477b75-bc57-4f8c-8d35-5db082a1d15d" name="Changes" comment="" />
+      <created>1631374425642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631374425642</updated>
+      <workItem from="1631374428450" duration="240000" />
+      <workItem from="1631374701502" duration="633000" />
+      <workItem from="1631375362580" duration="314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/cases/MercedesTest.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
