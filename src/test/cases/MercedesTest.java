@@ -110,7 +110,7 @@ public class MercedesTest {
                         JSONTokener new_tokener = new JSONTokener(url.openStream());
                         JSONObject _jobj = new JSONObject(new_tokener);
                         JSONArray data = (JSONArray) _jobj.get("data");
-                        for (int i = 0; i < (int) data.length(); i++) {
+                        for (int i = 0; i < data.length(); i++) {
                             JSONObject author = (JSONObject) data.get(i);
                             if (Integer.parseInt(author.get("submission_count").toString()) > threshold) {
                                 authors.add(author.get("username").toString());

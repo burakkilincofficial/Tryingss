@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="89477b75-bc57-4f8c-8d35-5db082a1d15d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/cases/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/cases/MercedesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/cases/ResultData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/cases/ResultJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/cases/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trying.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Trying.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/cases/udemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/cases/udemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/cases/Netas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/cases/MercedesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/cases/MercedesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,11 +38,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/json-20210307.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3764321" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="MercedesTest" type="Application" factoryName="Application">
@@ -60,12 +68,28 @@
       <updated>1631374425642</updated>
       <workItem from="1631374428450" duration="240000" />
       <workItem from="1631374701502" duration="633000" />
-      <workItem from="1631375362580" duration="314000" />
+      <workItem from="1631375362580" duration="3614000" />
+      <workItem from="1631430776053" duration="605000" />
+      <workItem from="1633001029191" duration="1870000" />
+      <workItem from="1634059657409" duration="2148000" />
+      <workItem from="1641925729808" duration="1282000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
